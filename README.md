@@ -1,1 +1,1 @@
-# evelopment of a Reinforcement Learning-Based Quiz Recommendation System for Personalized Learning in Thai Education
+# Development of a Reinforcement Learning-Based Quiz Recommendation System for Personalized Learning in Thai Education
